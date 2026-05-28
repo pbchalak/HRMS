@@ -1,0 +1,6 @@
+{
+  "name": "HRMS Software",
+  "description": "A modern SaaS-based human resource management platform for employees, attendance, leaves, and payroll.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
